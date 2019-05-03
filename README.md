@@ -1,19 +1,32 @@
-## Welcome to GitHub Pages
+## SAIC INSTITUTE OF MEDICAL TECHNOLOGY (SIMT)
 
 You can use the [editor on GitHub](https://github.com/Razqin-Studio/SIMT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###SAIC INSTITUTE OF MEDICAL TECHNOLOGY 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Well reputed institute for PHYSIOTHERAPY, Medical Technology, Nursing, Medical Assistant Training School.
+Our Programs are in Dhaka & all around major cities of Bangladesh. 
+## SAIC has proper care, better environment, students engagements and longtime experience on Study plan & Career for every Students.
+### 
+This app might help on -
+***Visit Official website with easier steps  
+***Individual Students Informations 
+***Admission queries 
+***Essential Books & Hand Notes
+***Outdoor Services 
+
+
+Publisher -
+Razqin Studio
+Nadim Parvez Ringque
+0242
 
 - Bulleted
 - List
